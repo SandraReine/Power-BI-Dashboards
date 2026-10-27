@@ -103,10 +103,12 @@ By combining interactive reports with impactful visualisations, users can explor
 ✅ Business Intelligence Reporting  
 ✅ Data Storytelling  
 
+<img width="494" height="347" alt="image" src="https://github.com/user-attachments/assets/ad3ecfeb-d828-47a8-ab53-a2f4484b6061" />
+
+
 ---
 
 ## 🧰 Tools Used
 
 - Microsoft Power BI
 - Power Query
--
