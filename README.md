@@ -87,6 +87,9 @@ The dashboards were designed to:
 
 By combining interactive reports with impactful visualisations, users can explore the data and uncover insights that support business growth and operational improvements.
 
+<img width="1415" height="792" alt="image" src="https://github.com/user-attachments/assets/e5af70dd-99d4-4d42-b862-08de41535596" />
+
+<img width="890" height="492" alt="image" src="https://github.com/user-attachments/assets/de46567b-4c6b-4fc6-b27b-eba73e71d036" />
 
 ---
 
